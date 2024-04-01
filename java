@@ -39,3 +39,5 @@ public class PrimeCounter {
         System.out.println("Count of prime nodes: " + primeCount);
     }
 }
+
+
